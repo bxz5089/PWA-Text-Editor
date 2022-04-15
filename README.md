@@ -40,9 +40,9 @@ This application is deployed to Heroku
 
 Can be used as an simple text editor online or offline.
 
-### Screenshot: 
+### Screenshot:
 
-![Screenshot](assets/ScreenShot11.png)
+![Screenshot](assets/ScreenShot1.png)
 ![Screenshot](assets/ScreenShot2.png)
 ![Screenshot](assets/ScreenShot3.png)
 
