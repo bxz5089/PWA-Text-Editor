@@ -35,6 +35,8 @@ This application is deployed to Heroku
 - Open server in terminal by using npm start
 - The routes can be tested by using Insomnia
 
+- https://fast-mountain-78332.herokuapp.com/
+
 ## Usage
 
 Can be used an simple text editor online or offline. 
