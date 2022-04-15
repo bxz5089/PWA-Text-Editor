@@ -38,7 +38,7 @@ This application is deployed to Heroku
 
 ## Usage
 
-Can be used as an simple text editor online or offline. 
+Can be used as an simple text editor online or offline.
 
 ### Screenshot:
 
